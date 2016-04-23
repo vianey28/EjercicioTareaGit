@@ -1,1 +1,1 @@
-“Primera versión del fichero1”.
+“Esta es la Primera versión del fichero1”.
