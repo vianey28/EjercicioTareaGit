@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-“Este es el Fichero3”
-=======
-“Este es el Fichero3-rama Feature2”
->>>>>>> refs/heads/Feature2
+“cambiado por Estudiante1”
